@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "Runner",
+			"Path": "D:\\Workspace\\GIT\\Runner\\Source\\Runner.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "RunnerEditor",
+			"Path": "D:\\Workspace\\GIT\\Runner\\Source\\RunnerEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

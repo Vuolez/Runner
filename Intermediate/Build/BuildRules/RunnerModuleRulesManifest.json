@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"D:\\Workspace\\GIT\\Runner\\Source\\Runner\\Runner.Build.cs",
+		"D:\\Workspace\\GIT\\Runner\\Source\\Runner.Target.cs",
+		"D:\\Workspace\\GIT\\Runner\\Source\\RunnerEditor.Target.cs"
+	],
+	"EngineVersion": "4.26.2"
+}

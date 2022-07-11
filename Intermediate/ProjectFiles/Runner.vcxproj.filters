@@ -1,0 +1,94 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\Runner.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{DE62213F-082B-4FC6-85D4-1F4DDC7FFB0C}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\Runner.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\RunnerEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\README.md" />
+    <Filter Include="Config">
+      <UniqueIdentifier>{3A73BC77-3B74-4CA9-95DA-21AC72993E10}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultDeviceProfiles.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\Runner">
+      <UniqueIdentifier>{836E136E-CF9B-4C05-A970-FBCBC0D14BAC}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\Runner\Barricade.cpp">
+      <Filter>Source\Runner</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Runner\Barricade.h">
+      <Filter>Source\Runner</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Runner\BarricadeManager.cpp">
+      <Filter>Source\Runner</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Runner\BarricadeManager.h">
+      <Filter>Source\Runner</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Runner\MovableActor.cpp">
+      <Filter>Source\Runner</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Runner\MovableActor.h">
+      <Filter>Source\Runner</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Runner\MovingLevel.cpp">
+      <Filter>Source\Runner</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Runner\MovingLevel.h">
+      <Filter>Source\Runner</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Runner\MovingLine.cpp">
+      <Filter>Source\Runner</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Runner\MovingLine.h">
+      <Filter>Source\Runner</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Runner\MovingSegment.cpp">
+      <Filter>Source\Runner</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Runner\MovingSegment.h">
+      <Filter>Source\Runner</Filter>
+    </ClInclude>
+    <None Include="..\..\Source\Runner\Runner.Build.cs">
+      <Filter>Source\Runner</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\Runner\Runner.cpp">
+      <Filter>Source\Runner</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Runner\Runner.h">
+      <Filter>Source\Runner</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Runner\RunnerGameModeBase.cpp">
+      <Filter>Source\Runner</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Runner\RunnerGameModeBase.h">
+      <Filter>Source\Runner</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Runner\StaticLibrary.cpp">
+      <Filter>Source\Runner</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Runner\StaticLibrary.h">
+      <Filter>Source\Runner</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
